@@ -1,6 +1,6 @@
 {
   "name": "@your-org/ui_comp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
@@ -29,7 +29,7 @@
     "next": "15.2.3",
     "next-auth": "^4.24.11",
     "react": "^18.3.1",
-  "react-dom": "^18.3.1",
+    "react-dom": "^18.3.1",
     "yup": "^1.6.1"
   },
   "devDependencies": {
